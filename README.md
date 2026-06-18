@@ -17,10 +17,10 @@ Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub (AMR)| Curious, honest, s
 
 | | |
 |---|---|
-| **Curious** | Open-minded, listen first, and asking "what if?" |
-| **Dynamic** | Systems thinking, solutions oriented, continuous learning |
-| **Integrity** | Diligent, consistent, and ownership |
-| **Honest** | True collaboration, transparent communication, accessibility |
+| **💡 Curious** | Open-minded, listen first, and asking "what if?" |
+| **🚀 Dynamic** | Systems thinking, solutions oriented, continuous learning |
+| **🎯 Integrity** | Thorough, dependable, and I own what I commit to |
+| **💎 Honest** | True collaboration, transparent communication, accessibility |
 
 ---
 
