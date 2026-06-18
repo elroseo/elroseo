@@ -2,14 +2,14 @@
 
 ## TLDR
 
-Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, systems thinker | Dog mum to Lucy (Goose) 🐶
+Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub (AMR)| Curious, honest, systems thinker | Dog mum to Lucy (Goose) 🐶
 
 ---
 
 ## Where I came from
 
 - Most recently worked at LiveU in the video broadcast and production space 🎦⏯️
-- Multi-modal experienced technical support engineer and technical account manager across global markets
+- Multi-modal experienced technical support engineer and technical account manager across global markets🌍
 
 ---
 
@@ -36,22 +36,22 @@ Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, system
 
 ## Things I like at work
 
-- Team sync calls
-- Good documentation
-- Honest and realistic communication
-- Meetings that have a clear objective
-- Data driven decisions
-- Fun Slack emojis
+- Team sync calls 👥
+- Good documentation 📝
+- Honest and realistic communication 🗣️
+- Meetings that have a clear objective 🎯
+- Data driven decisions 📊
+- Fun Slack emojis 🪩
 
 ---
 
 ## Things I like outside of work
 
 - Chasing a ball around a court (or more recently a golf course) ⛳
-- Most things with an engine and "How It's Made" reruns
-- Resonating with old books and making niche playlists
+- Most things with an engine and "How It's Made" reruns 🏎️
+- Resonating with old books and making niche playlists 🎧
 - Going on road trips and to farmers markets with my partner and Lucy the dog 🐶
-- Laughing with friends in a walkable city on a balmy evening
+- Laughing with friends in a walkable city on a balmy evening 🌇
 
 ---
 
@@ -70,7 +70,7 @@ Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, system
 |---|---|
 | **Slack** | Quick or urgent questions |
 | **Email** | More thorough responses |
-| **Calendar** | Drop a meeting or send a heads up first |
+| **Calendar** | Drop a meeting in or send a heads up first |
 
 Generally available between **7am - 7pm EST**, always happy to flex as needed.
 Usually have my video on but you do whatever works for you.
