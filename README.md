@@ -2,7 +2,7 @@
 
 ## TLDR
 
-Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, systems thinker | Dog mum to Lucy the Goosey 🐶
+Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, systems thinker | Dog mum to Lucy (Goose) 🐶
 
 ---
 
@@ -50,7 +50,7 @@ Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub | Curious, honest, system
 - Chasing a ball around a court (or more recently a golf course) ⛳
 - Most things with an engine and "How It's Made" reruns
 - Resonating with old books and making niche playlists
-- Going on road trips and to farmers markets with my partner and Lucy 🐶
+- Going on road trips and to farmers markets with my partner and Lucy the dog 🐶
 - Laughing with friends in a walkable city on a balmy evening
 
 ---
