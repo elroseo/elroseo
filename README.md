@@ -1,4 +1,4 @@
-# Hi, I'm Ellie 👋🏻
+# Hi, I'm Ellie (or El, either works)👋🏻
 
 ## TL;DR
 
