@@ -6,16 +6,16 @@ Hi, I'm Ellie. This is my human user guide: how I work, communicate, and collabo
 
 ---
 
-## Values
+## What matters to me
 
-| Value            | What it means                                                |
-| ---------------- | ------------------------------------------------------------ |
-| **💡 Curious**   | Open-minded, listen first, and asking "what if?"             |
-| **🚀 Dynamic**   | Systems thinking, solutions oriented, continuous learning    |
-| **🎯 Integrity** | Thorough, dependable, and own my commitments                 |
-| **💎 Honest**    | True collaboration, transparent communication, accessibility |
+| Value           | What it means                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------- |
+| **💡 Curious**  | I try to stay open-minded, listen first, and be ready to ask "what if?"                                  |
+| **🚀 Dynamic**  | I approach things systematically, aim to provide solutions, and prioritize continuous learning           |
+| **🎯 Reliable** | I strive to be thorough, dependable, and own my commitments                                              |
+| **💎 Honest**   | I'm committed to communicating openly, transparently, and accessibly in the spirit of true collaboration |
 
----
+--
 
 ## How I work
 
@@ -58,7 +58,7 @@ Usually have my video on but you do whatever works for you.
 
 ---
 
-## Growth areas
+## What I'm working on
 
 - Being more concise
 - Getting up to speed with all things GitHub, please be patient!
