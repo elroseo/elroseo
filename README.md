@@ -2,7 +2,7 @@
 
 ## TLDR
 
-Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub (AMR)| Curious, honest, systems thinker | Dog mum to Lucy (Goose) 🐶
+Brit living in Canada 🇬🇧🇨🇦 | CRE at GitHub (AMER)| Curious, honest, systems thinker | Dog mum to Lucy (Goose) 🐶
 
 ---
 
