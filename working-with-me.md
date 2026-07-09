@@ -21,7 +21,7 @@ Hi, I'm Ellie. This is my human user guide: how I work, communicate, and collabo
 
 - **Asynchronous first.** I enjoy independent work and working asynchronously lets me structure my work in the way that works best for me and my brain. My neurodivergence means that sometimes I can hyperfocus for long periods and other times it takes more effort to do sustained focus work.
 - **Collaborative and team-oriented.** I value and understand the benefits of team syncs and working collaboratively (async or in real time). I'll always try to make myself available to help others out when I can.
-- **Systemic and informed.** I like to work through things in a logical order and consider where my work fits into the broader context. When possible, I like to have any additional context on requests upfront (forewarned is forearmed).
+- **Systemic and informed.** Sometimes I get really excited about a new task and just jump in, but usually I like to work through things methodically. When I can, I like to take a moment to think things through and develop a plan before I start. I feel like this helps me see the bigger picture, work more efficiently, and tackle unexpected challenges. When possible, I like to have any additional context on requests upfront (forewarned is forearmed).
 
 ---
 
