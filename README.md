@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi,+I'm+Ellie+%F0%9F%91%8B%F0%9F%8F%BB;Customer+Reliability+Engineer+III;Brit+living+in+Canada+%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%A8%F0%9F%87%A6;Curious,+honest,+systems+thinker)](https://git.io/typing-svg)
+
+</div>
+
 # Hi, I'm Ellie (or El, either works)👋🏻
 
 ## TL;DR
