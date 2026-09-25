@@ -44,4 +44,3 @@ I've written a short guide on how I work, communicate, and collaborate best.
 
 </div>
 
-*This is a living document. Last updated: July 2026.*
