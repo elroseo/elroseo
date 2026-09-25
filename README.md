@@ -6,7 +6,7 @@
 
 ## Where I came from 🗺️
 
-- Most recently worked at LiveU in the video broadcast and production space 🎦⏯️
+- Most recently worked at LiveU in the video over IP space 🎦⏯️
 - Experience as a multi-modal technical support engineer and technical account manager across global markets
 
 ---
@@ -16,7 +16,7 @@
 - Chasing a ball around a court (or more recently a golf course) ⛳
 - Most things with an engine and "How It's Made" reruns
 - Resonating with old books and making niche playlists
-- Road trips and farmers markets with my partner and Lucy 🐶
+- Road trips and farmers markets with my partner and our dog Lucy 🐶
 - Laughing with friends in a walkable city on a balmy evening
 
 ---
